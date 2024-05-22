@@ -1,0 +1,28 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl red_Fleece_Copy_4_FRONT_2196
+Ka 0.046385 0.046385 0.046385
+Kd 0.147851 0.147851 0.147851
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/WS-01/Desktop/MarvelousD/Beanie/Export/Beanie_Outfit_V01_diffuse_1001.png
+map_Kd C:/Users/WS-01/Desktop/MarvelousD/Beanie/Export/Beanie_Outfit_V01_diffuse_1001.png
+map_Kn C:/Users/WS-01/Desktop/MarvelousD/Beanie/Export/Beanie_Outfit_V01_normal_1001.png
+newmtl red_Fleece_Copy_3_FRONT_2185
+Ka 0.046385 0.046385 0.046385
+Kd 0.147851 0.147851 0.147851
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/WS-01/Desktop/MarvelousD/Beanie/Export/Beanie_Outfit_V01_diffuse_1001.png
+map_Kd C:/Users/WS-01/Desktop/MarvelousD/Beanie/Export/Beanie_Outfit_V01_diffuse_1001.png
+map_Kn C:/Users/WS-01/Desktop/MarvelousD/Beanie/Export/Beanie_Outfit_V01_normal_1001.png
+newmtl FABRIC_1_FRONT_1587970
+Ka 0.038318 0.038318 0.038318
+Kd 0.122138 0.122138 0.122138
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka C:/Users/WS-01/Desktop/MarvelousD/Beanie/Export/Beanie_Outfit_V01_diffuse_1001.png
+map_Kd C:/Users/WS-01/Desktop/MarvelousD/Beanie/Export/Beanie_Outfit_V01_diffuse_1001.png
+map_Kn C:/Users/WS-01/Desktop/MarvelousD/Beanie/Export/Beanie_Outfit_V01_normal_1001.png

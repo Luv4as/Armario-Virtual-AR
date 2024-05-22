@@ -12,6 +12,10 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      fontFamily:{
+        'libre_caslon_display': ['var(--font-libre_caslon_display)'],
+        'red_hat_display': ['var(--font-red_hat_display)'],
+      },
     },
   },
   plugins: [],
